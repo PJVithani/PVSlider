@@ -1,0 +1,6 @@
+framework module PVSlider {
+  umbrella header "PVSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
