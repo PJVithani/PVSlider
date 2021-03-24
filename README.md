@@ -10,7 +10,7 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Demo image
-https://user-images.githubusercontent.com/81140227/112303452-4d199b80-8cc2-11eb-8aee-9c9c52732d07.png
+![Simulator Screen Shot - iPhone 12 mini - 2021-03-22 at 15 33 47](https://user-images.githubusercontent.com/81140227/112304482-8acaf400-8cc3-11eb-8714-402b3d6255bc.png)
 
 ## Demo Video
 https://user-images.githubusercontent.com/81140227/112303846-ca451080-8cc2-11eb-8413-2497b6feb7dc.mov
