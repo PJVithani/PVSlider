@@ -10,7 +10,7 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
-
+https://user-images.githubusercontent.com/81140227/112303452-4d199b80-8cc2-11eb-8aee-9c9c52732d07.png
 ## Installation
 
 PVSlider is available through [CocoaPods](https://cocoapods.org). To install
