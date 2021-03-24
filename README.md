@@ -13,7 +13,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ![Simulator Screen Shot - iPhone 12 mini - 2021-03-22 at 15 33 47](https://user-images.githubusercontent.com/81140227/112304482-8acaf400-8cc3-11eb-8714-402b3d6255bc.png)
 
-![112303846-ca451080-8cc2-11eb-8413-2497b6feb7dc.mov](https://user-images.githubusercontent.com/81140227/112304588-a9c98600-8cc3-11eb-83e5-56443bc56b74.mov)
+![Screen.Recording.2021-03-22.at.5.18.50.PM.2.mov](https://user-images.githubusercontent.com/81140227/112304588-a9c98600-8cc3-11eb-83e5-56443bc56b74.mov)
 
 ## Installation
 
