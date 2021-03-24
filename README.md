@@ -13,7 +13,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ![Output](https://user-images.githubusercontent.com/81140227/112304482-8acaf400-8cc3-11eb-8714-402b3d6255bc.png)
 
-![Output](https://user-images.githubusercontent.com/81140227/112304588-a9c98600-8cc3-11eb-83e5-56443bc56b74.mov)
+![Output](https://user-images.githubusercontent.com/81140227/112305567-db8f1c80-8cc4-11eb-9016-715c30e22b4a.gif)
 
 ## Installation
 
