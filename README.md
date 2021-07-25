@@ -24,7 +24,7 @@ pod 'PVSlider'
 
 ## Author
 
-priyanka, priyanka.v@cearsinfotech.com
+priyanka, priyankavithani@gmail.com
 
 ## License
 
